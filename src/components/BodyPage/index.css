@@ -1,0 +1,82 @@
+.title-usaha {
+    color: #EB414F ;
+}
+
+.button-pelajari {
+    font-size: 1rem;
+    color: #EB414F;
+    font-weight: 800 ;
+  }
+
+  .button-daftar {
+    width: "100%";
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #EB414F ;
+   font-weight: 800;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    color: #FFF;
+    
+  }
+  .button-daftar1 {
+    width: "100%";
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFF ;
+   font-weight: 800;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    color: #EB414F;
+    border-width: 1;
+    border-color: #EB414F;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+  }
+
+  .footer {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100px;
+      background-color: #EB414F;
+  }
+
+  .link-close {
+    display: flex;
+    justify-content: right;
+  }
+
+  .box-modal {
+    display: flex;
+    flex-direction: row;
+    
+   
+  }
+
+  .inputan {
+    padding: 8px;
+    border-radius: 20px ;
+    border-width: 1;
+    border-color: #EB414F ;
+    color: #EB414F ;
+    margin-top: 10px;
+  }
+
+  .btn-daftar {
+    padding: 8px;
+    border-radius: 20px ;
+    border-width: 1;
+    background-color: #EB414F ;
+    color: #FFF ;
+    font-weight: 600;
+    font-size: 1rem;
+
+  }
+
+ 

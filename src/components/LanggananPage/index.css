@@ -1,0 +1,43 @@
+.price-box {
+    font-size: 2rem;
+    font-weight: 800 ;
+    text-align: center;
+    
+
+}
+
+.list-product {
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+
+}
+
+.button-box {
+    width: "100%";
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #EB414F ;
+   font-weight: 800;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    color: #FFF ;
+    border-width: 1;
+    margin-top: 50px;
+    
+
+}
+
+.title-center {
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: #FFF;
+ 
+}
+
+.but-box {
+    display: flex;
+    justify-content: center;
+}
